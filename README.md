@@ -11,8 +11,7 @@ Open [http://localhost:4000/graphql](http://localhost:4000/graphql) to view the 
 
 ## Sample query
 
-### `
-{
+### `{
     beerRecommendations {
       id
       category
@@ -29,5 +28,4 @@ Open [http://localhost:4000/graphql](http://localhost:4000/graphql) to view the 
       updated_at
       created_at
     }
-}
-`
+}`
